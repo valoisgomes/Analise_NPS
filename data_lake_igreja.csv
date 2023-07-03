@@ -1,0 +1,101 @@
+ID;Pastor_A;Pastor_B;Pastor_C;Pastor_D;Evento_Casais;Culto_Jovens;Vigilia;GPS;Cantina;Acolhimento;Equipe_Pastoral;Culto_Preferido;Sente_Cuidado;Parte_Família;Satisfação_Igreja;Comentário
+1;8;7;9;6;7;8;9;6;7;8;7;10 AM;Sim;Sim;9;Ótima igreja! Gostei muito dos cultos pela manhã.
+2;6;8;7;7;8;6;7;9;6;7;8;18 PM;Sim;Sim;7;Gostei das atividades do GPS, mas o culto da tarde não me agradou.
+3;9;9;8;8;9;9;8;7;9;8;9;20 PM;Sim;Sim;9;A equipe pastoral é muito atenciosa e dedicada.
+4;5;5;6;7;6;7;5;6;7;6;5;18 PM;Não;Sim;4;A igreja precisa melhorar o acolhimento aos membros.
+5;7;6;7;8;6;8;7;7;8;7;6;10 AM;Sim;Sim;8;Pastor_A precisa se esforçar mais na pregação.
+6;7;7;6;6;8;8;9;6;7;9;7;20 PM;Sim;Sim;9;Ótima experiência na vigília! Recomendo.
+7;6;8;7;7;7;6;7;8;6;7;8;10 AM;Sim;Sim;7;O pastor_B é muito inspirador.
+8;8;6;8;7;6;7;8;7;8;7;6;18 PM;Sim;Sim;8;Acolhimento maravilhoso! Me sinto em casa.
+9;9;8;7;8;9;9;7;6;8;7;9;20 PM;Sim;Sim;9;O pastor_C tem uma grande sabedoria.
+10;6;7;8;7;6;7;6;9;6;7;6;10 AM;Sim;Sim;7;Gostei muito da cantina, opções deliciosas.
+11;8;7;6;7;9;8;9;6;7;8;7;20 PM;Sim;Sim;9;As atividades do GPS são muito enriquecedoras.
+12;7;6;7;8;7;6;7;9;6;7;8;18 PM;Sim;Sim;8;A igreja oferece ótimos eventos para casais.
+13;5;6;8;6;8;7;5;6;7;6;5;10 AM;Não;Sim;4;Falta mais interação da equipe pastoral.
+14;7;8;6;7;6;7;8;7;8;7;6;18 PM;Sim;Sim;8;Ótima recepção no acolhimento.
+15;8;7;9;6;7;8;9;6;7;8;7;20 PM;Sim;Sim;9;Os cultos dos jovens são inspiradores.
+16;6;8;7;7;8;6;7;9;6;7;8;10 AM;Sim;Sim;7;Recomendo a vigília, momento especial de conexão.
+17;9;9;8;8;9;9;8;7;9;8;9;18 PM;Sim;Sim;9;A igreja proporciona uma atmosfera familiar.
+18;5;5;6;7;6;7;5;6;7;6;5;20 PM;Não;Sim;4;As atividades do GPS não atendem às expectativas.
+19;7;6;7;8;6;8;7;7;8;7;6;10 AM;Sim;Sim;8;O pastor_D é muito atencioso.
+20;7;7;6;6;8;8;9;6;7;9;7;18 PM;Sim;Sim;9;Recomendo o culto dos jovens, sempre impactante.
+21;6;7;8;7;7;6;7;8;6;7;8;20 PM;Sim;Sim;8;O evento para casais foi uma experiência incrível.
+22;8;6;7;7;8;7;8;7;8;7;6;10 AM;Sim;Sim;8;A igreja oferece várias opções de eventos.
+23;7;8;7;8;6;7;8;6;7;8;7;18 PM;Sim;Sim;8;A equipe pastoral é muito prestativa.
+24;9;7;8;9;8;9;8;7;9;8;9;20 PM;Sim;Sim;9;Me sinto cuidado pela igreja em todos os aspectos.
+25;5;6;7;5;6;7;5;6;7;6;5;10 AM;Não;Sim;4;O pastor_A precisa melhorar suas habilidades de comunicação.
+26;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;Ótima recepção na cantina, alimentos de qualidade.
+27;8;9;8;9;9;8;9;8;9;8;9;20 PM;Sim;Sim;9;Me sinto parte de uma grande família.
+28;6;7;6;7;7;6;7;6;7;6;7;10 AM;Sim;Sim;7;Gostei da vigília, momento de reflexão profunda.
+29;9;8;7;8;9;9;7;6;8;7;9;18 PM;Sim;Sim;9;O pastor_B é muito carismático e envolvente.
+30;5;6;8;6;8;7;5;6;7;6;5;20 PM;Não;Sim;4;A igreja precisa melhorar as atividades do GPS.
+31;7;8;6;7;6;7;8;7;8;7;6;10 AM;Sim;Sim;8;O pastor_C é um grande exemplo de liderança.
+32;7;7;8;6;8;8;9;6;7;9;7;18 PM;Sim;Sim;9;Acolhimento caloroso na igreja, me sinto bem-vindo.
+33;6;7;6;7;7;6;7;8;6;7;8;10 AM;Sim;Sim;7;Recomendo o culto da tarde, tem uma atmosfera única.
+34;8;6;7;7;8;7;8;7;8;7;6;20 PM;Sim;Sim;8;Gostei do evento para casais, ótimas palestras.
+35;9;7;8;9;8;9;8;7;9;8;9;18 PM;Sim;Sim;9;A igreja investe em programas para o desenvolvimento dos jovens.
+36;5;6;7;5;6;7;5;6;7;6;5;10 AM;Não;Sim;4;O pastor_D precisa se aprofundar mais nos estudos bíblicos.
+37;7;8;6;7;8;6;7;8;6;7;8;20 PM;Sim;Sim;8;Ótimo culto dos jovens, muita energia e inspiração.
+38;8;9;8;9;9;8;9;8;9;8;9;10 AM;Sim;Sim;9;A vigília é um momento de conexão profunda com Deus.
+39;6;7;6;7;7;6;7;6;7;6;7;18 PM;Sim;Sim;7;Gostei da equipe pastoral, sempre disposta a ajudar.
+40;9;8;7;8;9;9;7;6;8;7;9;20 PM;Sim;Sim;9;Me sinto parte de uma família espiritual na igreja.
+41;5;6;8;6;8;7;5;6;7;6;5;10 AM;Não;Sim;4;A igreja precisa investir mais no evento para casais.
+42;7;8;6;7;6;7;8;7;8;7;6;18 PM;Sim;Sim;8;Pastor_A é um excelente pregador, transmite sabedoria.
+43;8;7;6;7;9;8;9;6;7;8;7;20 PM;Sim;Sim;9;Ótimo culto da tarde, sempre edificante.
+44;6;7;8;7;7;6;7;8;6;7;8;10 AM;Sim;Sim;7;A igreja oferece várias opções de atividades para jovens.
+45;8;6;7;7;8;7;8;7;8;7;6;18 PM;Sim;Sim;8;Acolhimento caloroso na igreja, me sinto bem-vindo.
+46;7;8;6;7;7;6;7;8;6;7;8;20 PM;Sim;Sim;8;Gostei do evento para casais, oportunidade de crescimento.
+47;9;7;8;9;8;9;8;7;9;8;9;10 AM;Sim;Sim;9;A equipe pastoral é dedicada e cuidadosa.
+48;5;6;7;5;6;7;5;6;7;6;5;20 PM;Não;Sim;4;O culto dos jovens precisa de mais variedade nas atividades.
+49;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;A igreja oferece um ambiente de comunhão e apoio.
+50;8;9;8;9;9;8;9;8;9;8;9;10 AM;Sim;Sim;9;Me sinto amado e valorizado pela igreja.
+51;6;7;6;7;7;6;7;6;7;6;7;20 PM;Sim;Sim;7;O pastor_B é um excelente líder, inspira confiança.
+52;8;6;7;7;8;7;8;7;8;7;6;10 AM;Sim;Sim;8;Gostei muito da vigília, momento de intimidade com Deus.
+53;7;7;8;6;8;8;9;6;7;9;7;18 PM;Sim;Sim;9;A igreja oferece ótimos eventos para casais e famílias.
+54;9;8;7;8;9;9;7;6;8;7;9;20 PM;Sim;Sim;9;Ótima comunhão na igreja, me sinto parte de algo especial.
+55;5;6;8;6;8;7;5;6;7;6;5;10 AM;Não;Sim;4;O pastor_C precisa ser mais acessível aos membros.
+56;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;A cantina oferece opções saudáveis e saborosas.
+57;8;9;8;9;9;8;9;8;9;8;9;20 PM;Sim;Sim;9;A igreja oferece um ambiente acolhedor e amoroso.
+58;6;7;6;7;7;6;7;6;7;6;7;10 AM;Sim;Sim;7;Recomendo a equipe pastoral, sempre disposta a ajudar.
+59;9;8;7;8;9;9;7;6;8;7;9;18 PM;Sim;Sim;9;Me sinto parte de uma família espiritual na igreja.
+60;5;6;8;6;8;7;5;6;7;6;5;20 PM;Não;Sim;4;A igreja precisa investir mais no evento para casais.
+61;7;8;6;7;6;7;8;7;8;7;6;10 AM;Sim;Sim;8;Pastor_A é um excelente pregador, transmite sabedoria.
+62;8;7;6;7;9;8;9;6;7;8;7;20 PM;Sim;Sim;9;Ótimo culto da tarde, sempre edificante.
+63;6;7;8;7;7;6;7;8;6;7;8;10 AM;Sim;Sim;7;A igreja oferece várias opções de atividades para jovens.
+64;8;6;7;7;8;7;8;7;8;7;6;18 PM;Sim;Sim;8;Acolhimento caloroso na igreja, me sinto bem-vindo.
+65;7;8;6;7;7;6;7;8;6;7;8;20 PM;Sim;Sim;8;Gostei do evento para casais, oportunidade de crescimento.
+66;9;7;8;9;8;9;8;7;9;8;9;10 AM;Sim;Sim;9;A equipe pastoral é dedicada e cuidadosa.
+67;5;6;7;5;6;7;5;6;7;6;5;20 PM;Não;Sim;4;O culto dos jovens precisa de mais variedade nas atividades.
+68;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;A igreja oferece um ambiente de comunhão e apoio.
+69;8;9;8;9;9;8;9;8;9;8;9;10 AM;Sim;Sim;9;Me sinto amado e valorizado pela igreja.
+70;6;7;6;7;7;6;7;6;7;6;7;20 PM;Sim;Sim;7;O pastor_B é um excelente líder, inspira confiança.
+71;8;6;7;7;8;7;8;7;8;7;6;10 AM;Sim;Sim;8;Gostei muito da vigília, momento de intimidade com Deus.
+72;7;7;8;6;8;8;9;6;7;9;7;18 PM;Sim;Sim;9;A igreja oferece ótimos eventos para casais e famílias.
+73;9;8;7;8;9;9;7;6;8;7;9;20 PM;Sim;Sim;9;Ótima comunhão na igreja, me sinto parte de algo especial.
+74;5;6;8;6;8;7;5;6;7;6;5;10 AM;Não;Sim;4;O pastor_C precisa ser mais acessível aos membros.
+75;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;A cantina oferece opções saudáveis e saborosas.
+76;8;9;8;9;9;8;9;8;9;8;9;20 PM;Sim;Sim;9;A igreja oferece um ambiente acolhedor e amoroso.
+77;6;7;6;7;7;6;7;6;7;6;7;10 AM;Sim;Sim;7;Recomendo a equipe pastoral, sempre disposta a ajudar.
+78;9;8;7;8;9;9;7;6;8;7;9;18 PM;Sim;Sim;9;Me sinto parte de uma família espiritual na igreja.
+79;5;6;8;6;8;7;5;6;7;6;5;20 PM;Não;Sim;4;A igreja precisa investir mais no evento para casais.
+80;7;8;6;7;6;7;8;7;8;7;6;10 AM;Sim;Sim;8;Pastor_A é um excelente pregador, transmite sabedoria.
+81;8;7;6;7;9;8;9;6;7;8;7;20 PM;Sim;Sim;9;Ótimo culto da tarde, sempre edificante.
+82;6;7;8;7;7;6;7;8;6;7;8;10 AM;Sim;Sim;7;A igreja oferece várias opções de atividades para jovens.
+83;8;6;7;7;8;7;8;7;8;7;6;18 PM;Sim;Sim;8;Acolhimento caloroso na igreja, me sinto bem-vindo.
+84;7;8;6;7;7;6;7;8;6;7;8;20 PM;Sim;Sim;8;Gostei do evento para casais, oportunidade de crescimento.
+85;9;7;8;9;8;9;8;7;9;8;9;10 AM;Sim;Sim;9;A equipe pastoral é dedicada e cuidadosa.
+86;5;6;7;5;6;7;5;6;7;6;5;20 PM;Não;Sim;4;O culto dos jovens precisa de mais variedade nas atividades.
+87;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;A igreja oferece um ambiente de comunhão e apoio.
+88;8;9;8;9;9;8;9;8;9;8;9;10 AM;Sim;Sim;9;Me sinto amado e valorizado pela igreja.
+89;6;7;6;7;7;6;7;6;7;6;7;20 PM;Sim;Sim;7;O pastor_B é um excelente líder, inspira confiança.
+90;8;6;7;7;8;7;8;7;8;7;6;10 AM;Sim;Sim;8;Gostei muito da vigília, momento de intimidade com Deus.
+91;7;7;8;6;8;8;9;6;7;9;7;18 PM;Sim;Sim;9;A igreja oferece ótimos eventos para casais e famílias.
+92;9;8;7;8;9;9;7;6;8;7;9;20 PM;Sim;Sim;9;Ótima comunhão na igreja, me sinto parte de algo especial.
+93;5;6;8;6;8;7;5;6;7;6;5;10 AM;Não;Sim;4;O pastor_C precisa ser mais acessível aos membros.
+94;7;8;6;7;8;6;7;8;6;7;8;18 PM;Sim;Sim;8;A cantina oferece opções saudáveis e saborosas.
+95;8;9;8;9;9;8;9;8;9;8;9;20 PM;Sim;Sim;9;A igreja oferece um ambiente acolhedor e amoroso.
+96;6;7;6;7;7;6;7;6;7;6;7;10 AM;Sim;Sim;7;Recomendo a equipe pastoral, sempre disposta a ajudar.
+97;9;8;7;8;9;9;7;6;8;7;9;18 PM;Sim;Sim;9;Me sinto parte de uma família espiritual na igreja.
+98;5;6;8;6;8;7;5;6;7;6;5;20 PM;Não;Sim;4;A igreja precisa investir mais no evento para casais.
+99;7;8;6;7;6;7;8;7;8;7;6;10 AM;Sim;Sim;8;Pastor_A é um excelente pregador, transmite sabedoria.
+100;8;7;6;7;9;8;9;6;7;8;7;20 PM;Sim;Sim;9;Ótimo culto da tarde, sempre edificante.
