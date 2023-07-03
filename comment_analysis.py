@@ -8,7 +8,7 @@
 # Link direto: https://platform.openai.com/account/api-keys
 
 # Substitua o texto TODO por sua API Key da OpenAI, ela será salva como uma variável de ambiente.
-openai_api_key = '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'
+openai_api_key = 'TODO'
 
 """
 Integrar com o ChatGPT e usá-lo como um modelo para análise de sentimentos dos nossos comentários.
